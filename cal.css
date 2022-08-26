@@ -1,0 +1,10 @@
+
+.text{
+				width:50px;
+				border-top:none;
+				border-left:none;
+				border-right:none;
+				border-bottom:2px dashed;
+				font-family:monospace;
+}								
+				
